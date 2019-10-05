@@ -6,9 +6,13 @@ This bot is made in Python 3.6
 Libraries used:
 
 bs4(BeautifulSoup)
+
 discord.py
+
 requests
+
 random
+
 json
 
 
@@ -17,7 +21,9 @@ json
 To run this bot you will to download the following dependencies
 
 pip install discord.py
+
 pip install bs4
+
 pip install requests
 
 Please support me:
