@@ -26,6 +26,4 @@ pip install bs4
 
 pip install requests
 
-Please support me:
-in PayPal at hassambuttq7@gmail.com
 Enjoy!
